@@ -1,3 +1,2 @@
 #!/bin/bash
-su betty 
-cat 0-iam_betty
+su betty
