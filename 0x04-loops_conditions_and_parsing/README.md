@@ -1,0 +1,14 @@
+root@236e3b4a0b46:/alx-system_engineering-devops/0x04-loops_conditions_and_parsing# vi 1-for_best_school
+root@236e3b4a0b46:/alx-system_engineering-devops/0x04-loops_conditions_and_parsing# vi 2-while_best_school
+root@236e3b4a0b46:/alx-system_engineering-devops/0x04-loops_conditions_and_parsing# vi 3-until_best_school
+root@236e3b4a0b46:/alx-system_engineering-devops/0x04-loops_conditions_and_parsing# vi 4-if_9_say_hi
+root@236e3b4a0b46:/alx-system_engineering-devops/0x04-loops_conditions_and_parsing# vi 5-4_bad_luck_8_is_your_chance
+root@236e3b4a0b46:/alx-system_engineering-devops/0x04-loops_conditions_and_parsing# vi 6-superstitious_numbers
+root@236e3b4a0b46:/alx-system_engineering-devops/0x04-loops_conditions_and_parsing# vi 7-clock
+root@236e3b4a0b46:/alx-system_engineering-devops/0x04-loops_conditions_and_parsing# vi 8-for_ls
+root@236e3b4a0b46:/alx-system_engineering-devops/0x04-loops_conditions_and_parsing# vi 9-to_file_or_not_to_file
+root@236e3b4a0b46:/alx-system_engineering-devops/0x04-loops_conditions_and_parsing# vi 10-fizzbuzz
+root@236e3b4a0b46:/alx-system_engineering-devops/0x04-loops_conditions_and_parsing# vi 100-read_and_cut
+root@236e3b4a0b46:/alx-system_engineering-devops/0x04-loops_conditions_and_parsing# vi 101-tell_the_story_of_passwd
+root@236e3b4a0b46:/alx-system_engineering-devops/0x04-loops_conditions_and_parsing# vi 102-lets_parse_apache_logs
+root@236e3b4a0b46:/alx-system_engineering-devops/0x04-loops_conditions_and_parsing# vi 103-dig_the-data
